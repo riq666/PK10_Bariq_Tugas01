@@ -5,7 +5,7 @@ import java.awt.Graphics;
 
 /**
  * Kelas Garis
- * @authr Bariq 30/06-2024
+ * @author Bariq 30/06-2024
  */
 
 public class GarisKu extends BentukKu 
